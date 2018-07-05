@@ -11,6 +11,7 @@ Lecturas que van saliendo del grupo AI, mezcales y cumbiones.
 
 [Facial recognition is here to stay. And we should all probably accept it](https://qz.com/1312250/facial-recognition-is-here-to-stay-and-we-should-all-probably-accept-it/)  
 [Philosophers Lead Academics’ Effort To Restrict Facial Recognition Technology](http://dailynous.com/2018/06/28/philosophers-lead-academics-effort-restrict-facial-recognition-technology/)
+[When the Robot Doesn’t See Dark Skin](https://www.nytimes.com/2018/06/21/opinion/facial-analysis-technology-bias.html)
 
 ## Material didáctico
 
