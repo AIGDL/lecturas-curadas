@@ -3,7 +3,8 @@ Lecturas que van saliendo del grupo AI, mezcales y cumbiones.
 
 ## Política Pública
 
-[Towards an artificial intelligence strategy in Mexico](http://go.wizeline.com/rs/571-SRN-279/images/Towards-an-AI-strategy-in-Mexico.pdf)
+[Towards an artificial intelligence strategy in Mexico](http://go.wizeline.com/rs/571-SRN-279/images/Towards-an-AI-strategy-in-Mexico.pdf) . 
+[Policy Brief W20 Artificial Intelligence: open questions about gender inclusion](http://webfoundation.org/docs/2018/06/AI-Gender.pdf)
 
 ## Futurismo
 
