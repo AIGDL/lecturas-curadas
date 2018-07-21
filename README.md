@@ -17,6 +17,10 @@ Lecturas que van saliendo del grupo AI, mezcales y cumbiones.
 [Philosophers Lead Academics’ Effort To Restrict Facial Recognition Technology](http://dailynous.com/2018/06/28/philosophers-lead-academics-effort-restrict-facial-recognition-technology/).  
 [When the Robot Doesn’t See Dark Skin](https://www.nytimes.com/2018/06/21/opinion/facial-analysis-technology-bias.html)
 
+## Sesgos metodológicos
+
+[MIT Moral Machine](http://moralmachine.mit.edu/)
+
 ## Material didáctico
 
 [Introducción a la inteligencia artificial](https://github.com/haydemtzl/DeCeroaCienG0/blob/master/Semana1/7.5.18aimlcloud.pptx)
