@@ -33,3 +33,4 @@ Lecturas que van saliendo del grupo AI, mezcales y cumbiones.
 ## Conferencias
 
 [Milset 2018](https://www.milset.org/en/activities/congresses/young_citizens_conferences/2018_artificial_intelligence.html)
+[AI in EMEA's Past, Present and Future, Bloomberg's Sooner Than You Think in Paris, 2018](https://www.youtube.com/watch?v=uWPCNe5CY04)
