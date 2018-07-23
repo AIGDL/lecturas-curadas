@@ -1,6 +1,10 @@
 # Lecturas curadas
 Lecturas que van saliendo del grupo AI, mezcales y cumbiones.
 
+## Manifiestos
+
+[AI at Google: our principles](https://blog.google/technology/ai/ai-principles/)  
+
 ## Política Pública
 
 [Towards an artificial intelligence strategy in Mexico](http://go.wizeline.com/rs/571-SRN-279/images/Towards-an-AI-strategy-in-Mexico.pdf)    
@@ -17,9 +21,10 @@ Lecturas que van saliendo del grupo AI, mezcales y cumbiones.
 [Philosophers Lead Academics’ Effort To Restrict Facial Recognition Technology](http://dailynous.com/2018/06/28/philosophers-lead-academics-effort-restrict-facial-recognition-technology/).  
 [When the Robot Doesn’t See Dark Skin](https://www.nytimes.com/2018/06/21/opinion/facial-analysis-technology-bias.html)
 
-## Sesgos metodológicos
+## Ética
 
-[MIT Moral Machine](http://moralmachine.mit.edu/)
+[MIT Moral Machine](http://moralmachine.mit.edu/)  
+[Thermostats, Locks and Lights: Digital Tools of Domestic Abuse](https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html)
 
 ## Material didáctico
 
