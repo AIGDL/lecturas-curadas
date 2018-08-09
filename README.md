@@ -4,7 +4,8 @@ Lecturas que van saliendo del grupo AI, mezcales y cumbiones.
 ## Manifiestos
 
 [AI at Google: our principles](https://blog.google/technology/ai/ai-principles/)  
-[The Manifesto on Algorithmic Humanitarianism](http://www.danmcquillan.io/algorithmic_humanitarianism.html) . 
+[The Manifesto on Algorithmic Humanitarianism](http://www.danmcquillan.io/algorithmic_humanitarianism.html)   
+[Ethical OS Toolkit: A guide to anticipate the future impact of today's technology](https://ethicalos.org)   
 
 ## Política Pública
 
@@ -15,7 +16,7 @@ Lecturas que van saliendo del grupo AI, mezcales y cumbiones.
 
 [Artificial Intelligence and the future of humanity](https://www.futuristgerd.com/2017/11/21/gerd-leonhards-presentation-at-lafuture-in-dubai-artificial-intelligence-and-the-future-of-humanity/)
 [Survey estimates timeline for AI advancements](http://sfmagazine.com/technotes/june-2017-survey-estimates-timeline-for-ai-advances/)
-[Ethical OS Toolkit: A guide to anticipate the future impact of today's technology](https://ethicalos.org) . 
+
 
 ## Reconocimiento facial
 
